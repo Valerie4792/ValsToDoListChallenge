@@ -1,0 +1,31 @@
+body{
+    background: rgb(130,233,229);
+background: radial-gradient(circle, rgba(130,233,229,0.7637648809523809) 60%, rgba(49,158,141,1) 100%);
+    font-family: 'Special Elite';
+    font-weight: 400;
+   
+}
+*{
+    color: rgb(15, 15, 15);
+}
+.strike{
+    text-decoration: line-through;
+    color: rgb(8, 0, 0);
+}
+
+.typewriter{
+    width: 1400px;
+    height: 900px;
+    margin: 0;
+    
+}
+.h1Font{
+    font-family: 'Special Elite';
+    font-weight: 800; 
+}
+.list-group-item{
+   background-color: rgba(255, 255, 255, 0.254);
+}
+.paper{
+    background-image: url(/images/texturePaper.jpeg);
+}
